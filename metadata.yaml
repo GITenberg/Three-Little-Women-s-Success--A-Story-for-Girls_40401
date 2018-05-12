@@ -1,0 +1,30 @@
+_repo: Three-Little-Women-s-Success--A-Story-for-Girls_40401
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40401-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jackson, Gabrielle E. (Gabrielle Emilie)
+    birthdate: 1861
+    gutenberg_agent_id: '1855'
+    url: http://www.gutenberg.org/2009/agents/1855
+description: ''
+gutenberg_issued: '2012-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Humanitarianism -- Juvenile fiction'
+- !lcsh 'African American women -- History -- Juvenile fiction'
+- !lcsh 'Confectionery -- Juvenile fiction'
+- !lcsh 'Businesswomen -- Juvenile fiction'
+title: 'Three Little Women''s Success: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/40401
